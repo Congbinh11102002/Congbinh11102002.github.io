@@ -1,0 +1,29 @@
+.bo{
+    width: 980px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+
+}
+.cot1{
+    width: 50px;
+}
+.cot2{
+    width: 50px;
+}
+.cot3{
+    width: 50px;
+}
+.cot4{
+    width: 50px;
+}
+.cot5{
+    width: 50px;
+}
+.cot6{
+    width: 50px;
+}
+.cot7{
+    width: 50px;
+}
